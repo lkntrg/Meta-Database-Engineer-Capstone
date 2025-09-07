@@ -1,2 +1,2 @@
 #Little Lemon Database
-#Meta Database Engineer Professional Certificate
+Meta Database Engineer Professional Certificate
